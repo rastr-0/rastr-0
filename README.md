@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rastr-0
-- 👀 I’m interested in programming(creating different algorithms and useful programms)
-- 🌱 I’m currently learning C++ and python programming
-- 💞️ I’m looking to collaborate on so far, probably, with noone. But You can write me if you have interesting idea or just question.
-- 📫 How to reach me: You can write email to me (romanmilko123@gmail.com) and also write in Telegram (@RomanMilko) - this option is better
+- 👀 I’m interested in programming, especially in data analytics
+- 💞️ I’m looking to collaborate with interesting people
+- 📫 How to reach me: You can write me email (romanmilko123@gmail.com) and also write me in Telegram (@rastr_1)
 
 <!---
 rastr-0/rastr-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
