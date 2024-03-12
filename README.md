@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rastr-0
-- 👀 I’m interested in programming, especially in DevOps approaches and practices and, of course, Linux
+- 👀 I’m interested in programming with Python & Rust & C++
 - 💞️ I’m looking to collaborate with interesting people
-- 📫 How to reach me: You can text me via email (romanmilko123@gmail.com) or via Telegram (@rastr_1)
+- 📫 How to reach me: email (romanmilko123@gmail.com); Telegram (@rastr_1)
 
 <!---
 rastr-0/rastr-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
