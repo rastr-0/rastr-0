@@ -1,8 +1,5 @@
 ## Hi there! 👋
 ##### I'm Roman, a CS student based in Prague. I'm interested in a different aspects of programming, but mainly focused on a backend side.
-
-### 🛠️ My toolkit
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=60 height=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=60 height=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=60 height=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width=80 height=80> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=60 height=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=60 height=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width=60 height=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width=60 height=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" width=60 height=60>
           
 ### 🚀 Top projects         
 - [BitTorrent Client](https://github.com/rastr-0/BitTorrent-Client) - Basic handmade BitTorrent client written in Python
